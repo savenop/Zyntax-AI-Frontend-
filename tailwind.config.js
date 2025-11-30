@@ -10,6 +10,8 @@ export default {
   "p-0.5",
   "relative",
   "block",
+  "min-h-[22rem]",
+    "p-[2.4rem]"
 ],
 
   theme: {
