@@ -4,6 +4,14 @@ import plugin from "tailwindcss/plugin";
 
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+  safelist: [
+  "bg-[length:100%_100%]",
+  "bg-no-repeat",
+  "p-0.5",
+  "relative",
+  "block",
+],
+
   theme: {
     extend: {
       colors: {
