@@ -26,6 +26,3 @@ It showcases key product features, pricing, benefits, and interactive UI element
 - **Canvas Cursor Effects**
 
 ---
-
-## 📂 Project Structure
-
